@@ -6,4 +6,6 @@ I needed to get data from this page [https://www.vistazo.com/proyectos-especiale
 
 but it was restricted. I started studying the site and found they use a binary encoded in protobuf. This repo is an example of how to extract the data.
 
-![issuu-demo](issuu-demo.png)
+![meta-extraction](meta-extraction.png)
+
+![text-extractions](text-extractions.png)
